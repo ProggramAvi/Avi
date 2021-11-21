@@ -1,0 +1,247 @@
+body{
+    text-align: center;
+    background-image:url(1.png);
+    font-size: 30px;
+    font-family: Gotham Rounded;
+}
+
+
+
+
+
+
+
+.typewrite{
+    background-color:transparent;
+  text-align: center;
+  color:#fff;
+  padding-top:10em;
+}
+
+* { color:rgb(0, 0, 0); text-decoration: none;
+
+}
+
+
+.img{
+    position: relative;
+    right: 2px;
+    z-index: 111;
+
+}
+
+
+p{
+    text-align: right;
+    font-family: fantasy;
+    font-size: 22px;
+    z-index: 111;
+
+}
+
+
+
+.avi{
+    width: 50vh;
+    position: relative;
+    border-radius: 20px;
+    z-index: 111;
+}
+
+
+
+.hh1{
+    border: 2px solid black;
+    width: 300px;
+    position: relative;
+    left: 95px;
+    text-align: center;
+    letter-spacing: 10px;
+    left: 480px;
+    background-color: black;
+    border-radius: 30px;
+
+}
+
+
+.h{
+    width: 300px;
+    text-align: center;
+    color: whitesmoke;
+
+}
+
+
+a{
+    color: crimson;
+    text-decoration: none;
+    position: relative;
+    top: 30px;
+    text-align: center;
+    z-index: 111;
+
+}
+
+
+
+.a{
+    border: 2px solid rgb(255, 255, 255);
+    width: 370px;
+    height: 100px;
+    border-radius: 100px;
+    text-align: center;
+    position: relative;
+    left: 440px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.6);
+    cursor: pointer;
+    z-index: 111;
+
+}
+
+
+
+
+.a:hover{
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.9);
+    width: 372px;
+    height: 103px;
+    z-index: 111;
+
+}
+
+
+
+.div2{
+    text-align: left;
+}
+
+
+
+.comment{
+    position: relative;
+    left: 400px;
+    bottom: 150px;
+    width: 400px;
+    height: 60px;
+    font-size: 33px;
+    color: rgb(0, 52, 121);
+    outline: none;
+    background:url(Design.jpg) ;
+    border-radius: 100px;
+}
+
+
+
+
+.buttons{
+    position: relative;
+    bottom: 100px;
+    left: 1000px;
+}
+
+
+.b1{
+    position: relative;
+    left: 500px;
+    bottom: 150px;
+    right: 1000px;
+
+
+    height: 50px;
+    width: 200px;
+    font-size: 40px;
+    border-radius: 1000px;
+    background-color: transparent;
+    color: #1ECD97;
+    border: 2px solid #1ECD97;
+
+    
+    cursor: pointer;
+}
+
+
+
+
+.b1:hover{
+    background-color: #1ECD97;
+    color: white;
+    transition: 0.5s;
+    letter-spacing: 2px;
+}
+
+
+
+
+.b1:active{
+    cursor: wait;
+
+}
+
+
+
+
+.hhh{
+    letter-spacing: 20px;
+}
+
+
+
+
+
+.button {
+    display: inline-flex;
+    height: 50px;
+    padding: 0;
+    background: #009578;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    overflow: hidden;
+    font-family: Gotham Rounded, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+
+
+
+button:hover {
+    background: #008168;
+    
+}
+
+
+
+
+button:active {
+    background: #006e58;
+    cursor: wait;
+    
+}
+
+
+
+
+.button__text,
+.button__icon{
+    display: inline-flex;
+    align-items: center;
+    padding: 0 24px;
+    color: #fff;
+    height: 100%;
+}
+
+
+
+
+.button__icon{
+    font-size: 1.5em;
+    background-color: #00755e;
+
+}
+
+
+
+
+
